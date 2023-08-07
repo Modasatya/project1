@@ -1,0 +1,293 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+div{
+
+	height: 400px;
+	width: 1000px;
+	background-color: #ffd700;
+	margin: 10px;
+}
+.a{
+	height: 300px;
+	width: 400px;
+	font-size: 30px;
+	padding-left: 100px;
+	padding-top: 90px;
+	float: left;
+}
+.b{
+	height: 300px;
+	width: 500px;
+	padding-top: 50px;
+	padding-left: 100px;
+	float: left;
+}
+.ab{
+
+	height: 400px;
+	width: 1000px;
+	background-color: white;
+	margin: 20px;
+}
+.c{
+	height: 300px;
+	width: 270px;
+	background-color: #ffd700;
+	margin-left: 20px;
+	padding: 10px;
+	float:left;
+}
+.img3{
+	height: 150px;
+	width: 250px;
+}
+.d{
+	height: 300px;
+	width: 270px;
+	background-color: #ffd700;
+	padding: 10px;
+	float:left;
+}
+.img4{
+	height: 150px;
+	width: 250px;
+}
+.e{
+	height: 300px;
+	width: 270px;
+	background-color: #ffd700;
+	padding: 10px;
+	float:left;
+}
+.img5{
+	height: 150px;
+	width: 250px;
+}
+.ac{
+
+	height: 600px;
+	width: 1000px;
+	background-color: white;
+	padding: 10px;
+}
+.f{
+	height: 250px;
+	width: 400px;
+	background-color:white;
+	padding: 10px;
+	float: left;
+}
+.img6{
+	height: 150px;
+	width: 550px;
+}
+.g{
+	height: 250px;
+	width: 400px;
+	background-color: white;
+	margin: 10px;
+	padding-top: 20px;
+	padding-right: 250px;
+	float: left;
+}
+.h{
+	height: 250px;
+	width: 400px;
+	background-color: white;
+	padding: 5px;
+	float: left;
+}
+.img7{
+	height: 230px;
+	width: 370px;
+	}
+.i{
+	height: 250px;
+	width: 400px;
+	background-color: white;
+	padding: 10px;
+	float: left;
+}
+.img8{
+	height: 150px;
+	width: 350px;
+	}
+.ad{
+
+	height: 500px;
+	width: 1000px;
+	background-color: #ffd700;
+}
+
+.j{
+	height: 400px;
+	width: 400px;
+	background-color: #ffd700;
+	padding: 20px;
+	float: left;
+}
+.img9{
+	height: 300px;
+	width: 350px;
+	}
+
+.k{
+	height: 400px;
+	width: 400px;
+	background-color: #ffd700;
+	float: left;
+}
+.l{
+	height: 200px;
+	width: 300px;
+	background-color: white;
+	margin-left: 10px;
+	position: relative;
+	padding: 10px;
+	top:180px;
+	right:5px;
+}
+.img10{
+	height: 180px;
+	width: 270px;
+}
+.m{
+	height: 200px;
+	width: 300px;
+	background-color: white;
+	margin-left: 70px;
+}
+.ae{
+
+	height: 500px;
+	width: 1300px;
+	background-color: white;
+}
+.n{
+	height: 280px;
+	width: 200px;
+	background-color: #ffd700;
+	float: left;
+}
+.o{
+	height: 300px;
+	width: 400px;
+	background-color: pink;
+	position: relative;
+	top:60px;
+	right:180px;
+	float: left;
+}
+.img11{
+	height: 300px;
+	width: 400px;
+		}
+.p{
+	height: 250px;
+	width: 350px;
+	background-color: #ffd700;	
+	position: relative;
+	top:200px;
+	right:250px;
+	float: left;
+}
+.img12{
+	height: 250px;
+	width: 350px;
+	}
+.q{
+	height: 200px;
+	width: 170px;
+	background-color: white;
+	padding:5px;
+	position: relative;
+	right:1010px;
+	float: left;
+}
+.af{
+	height: 600px;
+	width: 1000px;
+	background-color: #ffd700;
+}
+.r{
+	height: 500px;
+	width: 970px;
+	background-color: black;
+	background-image: url('../images2/high.avif');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.s{
+	height: 50px;
+	width: 970px;
+}
+.t{
+	height: 300px;
+	width: 300px;
+	background-color: white;
+	margin:0px 20px 30px 60px;
+	/*background-image: url('../images2/car2.avif');
+	background-size: cover;
+	background-repeat: no-repeat;*/
+}
+.ai{
+	height: 600px;
+	width: 1000px;
+	background-color: #ffd700;
+}
+.v{
+	height: 400px;
+	width: 960px;
+	background-color: #ffd700;
+	margin-left: 40px;
+}
+.x{
+	height: 350px;
+	width: 250px;
+	background-color: #ffd700;
+	float: left;
+}
+.y{
+	height: 300px;
+	width: 250px;
+	background-color: #ffd700;
+	float: left;
+	padding-left: 30px;
+}
+.z{
+	height: 300px;
+	width: 250px;
+	background-color: #ffd700;
+	float: left;
+}
+.w{
+	height: 190px;
+	width: 980px;
+	background-color: black;
+}
+
+
+button{
+	background-color: black;
+	color: white;
+}
+img{
+	height: 200px;
+	width: 300px;
+}
+pre{
+	color:white;
+}
+}
+.b1{
+	background-color: #ffd700;
+	border: 1px solid #ffd700;
+	color:black;
+	font-size: 20px;
+}
+img2{
+	height: 100px;
+	width: 5px;
